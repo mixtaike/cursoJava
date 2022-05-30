@@ -1,0 +1,11 @@
+package cursoJava;
+
+public class Application {
+
+	public static void main(String[] args) {
+		//imprime no console e ln pula uma linha após imprimir
+		System.out.println("Hello World");
+
+	}
+
+}
